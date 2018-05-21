@@ -1,0 +1,1 @@
+{"virtualbox":{"/srv/":{"guestpath":"/srv","hostpath":"/home/dylanspriddle/junk/docker-vag/src","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/dylanspriddle/junk/docker-vag","disabled":false,"__vagrantfile":true}}}

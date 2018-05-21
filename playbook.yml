@@ -1,0 +1,6 @@
+- hosts: ansible_tutorial
+  become: yes
+  become_user: root
+  roles:
+   - docker
+
